@@ -13,3 +13,4 @@ esle:
 print ("colour is irrelevant.")
 
 print("moons:", moons)
+print("termperature:", temperature)
