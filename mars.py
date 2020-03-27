@@ -11,3 +11,5 @@ if colour == "red" :
 print ("Good, my favourite colour!")
 esle:
 print ("colour is irrelevant.")
+
+print("moons:", moons)
