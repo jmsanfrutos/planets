@@ -6,3 +6,8 @@ colour = "red"
 Temperature = -60
 humidity = 80
 moons = 2
+
+if colour == "red" :
+print ("Good, my favourite colour!")
+esle:
+print ("colour is irrelevant.")
